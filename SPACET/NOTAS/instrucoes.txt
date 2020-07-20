@@ -1,0 +1,2 @@
+SASS
+sass --wacth inc/sass:inc/
